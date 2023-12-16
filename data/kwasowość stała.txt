@@ -1,0 +1,15 @@
+kwasowość stała
+kwasowość lotna	
+kwas cytrynowy	
+cukier resztkowy	
+chlorki	
+wolny dwutlenek siarki	
+całkowity dwutlenek siarki	
+gęstość
+pH	
+siarczany alkohol
++ kolor wina 
+
+wynik: jakość wina w skali od 1 - 10
+
+można wyrzucić zmienne z jakością np. od 4-6 i zmienne od 1-3 dać jako '0' a zmienne od 7-10 jako '1'
